@@ -52,7 +52,6 @@ Ionicon
 ``` css
 --ff-urbanist: 'Urbanist', sans-serif;
 --ff-kaushan-script: 'Kaushan Script', sans-serif;
---ff-great-vibes: 'Great Vibes', sans-serif;
 
 --fs-1: 4.8rem;
 --fs-2: 4rem;
