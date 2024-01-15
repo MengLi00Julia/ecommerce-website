@@ -12,11 +12,11 @@
   
   *Demo Screenshots*
   <p align="center">
-  <img src="sample_screenshots/sample1.jpeg" width="400" alt="Sample 1">
+  <img src="sample_screenshots/sample1.jpeg" width="300" alt="Sample 1">
   <span style="display:inline-block; width: 100px;"></span>
-  <img src="sample_screenshots/sample2.jpeg" width="400" alt="Sample 2">
+  <img src="sample_screenshots/sample2.jpeg" width="300" alt="Sample 2">
   <span style="display:inline-block; width: 100px;"></span>
-  <img src="sample_screenshots/sample3.jpeg" width="400" alt="Sample 3">
+  <img src="sample_screenshots/sample3.jpeg" width="300" alt="Sample 3">
   </p>
 
 </div>
