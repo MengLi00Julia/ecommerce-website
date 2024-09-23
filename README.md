@@ -5,7 +5,7 @@
   Luminous is a fully responsive ecommerce website, <br/> Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <p align="center">
-  <a href="https://sylviali00.github.io/index"><strong>➥ Live Demo</strong></a>
+  <a href="https://mengli00julia.github.io/index"><strong>➥ Live Demo</strong></a>
   </p>
 
   <br/>
